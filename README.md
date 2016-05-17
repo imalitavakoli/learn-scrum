@@ -8,6 +8,7 @@ So if you're ready, then let's dive in :smile:
 
 # What do we mean by Agile development?
 Agile is a different approach to software development which replaces the old school *Waterfall* software development process.
+![Agile vs Waterfall](https://github.com/imalitavakoli/learn-scrum/blob/master/images/Agile-vs-Waterfall.png)
 
 **In Waterfall you would consider the whole project at the beginning** and do the following step by step: *Analyze*, *design*, *code* and *test*.  
 Each of these steps should be completely done before you proceed to the next one. But the problem with this process is that when a change happens at the middle of the project then you will face huge problems, as you didn't have any plans for it!
@@ -51,6 +52,8 @@ Now Scrum aims to fix these issues:
 
 
 # Scrum team major players
+![Scrum team major players](https://github.com/imalitavakoli/learn-scrum/blob/master/images/Scrum-team-major-players.png)
+
 - **Product owner**: She is responsible for the overall project. She decides which features are important and prioritize the tasks that developers need to work on. She also may be a point of contact for stakeholders and tries to maximize the value of the project.
 
 - **Scrum developers**: Write codes and test the software. They actually take care of the tasks that the product owner defines.
@@ -123,6 +126,8 @@ Now in order to understand our velocity, estimate how much time each story may t
 ## What is Burndown Chart?
 **It's a chart that shows us our speed of development in a sprint**.
 
+![Burndown Chart](https://github.com/imalitavakoli/learn-scrum/blob/master/images/Burndown-Chart.png)
+
 So as an example imagine we have a *5 day sprint* that *10 points* need to be done within it. We Simply draw the chart for it and then show our actual speed of development(red) and the ideal speed(green) with two lines on the chart.  
 At the conclusion of each day, a team member volunteers to calculate the remaining points and draw the actual speed of development line(the red line) on the chart. And yes, finding the remaining points is an easy work if all of the developers move their own stories from column to column as they get finished on the board.
 
@@ -149,6 +154,8 @@ Imagine we have a board that consist of 4 main columns:
 - **Done**: This column is the place where all completed stories go. Ideally, all of the stories in 'Sprint Backlog' should be here by the end of the sprint.
 
 As each sprint starts, some stories will be moved to 'Sprint Backlog' from the 'Product Backlog' and all of those in the 'Sprint Backlog' should be moved to the 'Done' column.
+
+![Planning Board](https://github.com/imalitavakoli/learn-scrum/blob/master/images/Planning-Board.png)
 
 
 ## 'Working On' Column:  
