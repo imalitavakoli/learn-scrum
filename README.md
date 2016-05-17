@@ -174,7 +174,7 @@ And remember to adapt yourself too over time! If you notice that your definition
 
 
 ## Feel free to organize the sticky notes and stories on the board:
-a User Story may be a complex task to achieve so feel free to divide it into smaller tasks and use different colored sticky notes to represent them on the board! In our example we have used *yellow* sticky notes for stories and *light blue* for tasks.
+A User Story may be a complex task to achieve so feel free to divide it into smaller tasks and use different colored sticky notes to represent them on the board! In our example we have used *yellow* sticky notes for stories and *light blue* for tasks.
 
 Bugs may appear at the middle of the work and it's very important to resolve them and track them down, so use another colored sticky notes, like *red* to represent them on board.
 
@@ -194,8 +194,7 @@ So as we know, after each sprint, our product should be in a stable state. But h
 
 
 ## Sprint planning
-**Occurs at the start of the sprint**.  
-Teams review the product backlog, pick up some of the high priority tasks and try to deliver them by the end of the sprint.
+**Occurs at the start of the sprint**. Teams review the product backlog, pick up some of the high priority tasks and try to deliver them by the end of the sprint.
 
 **How long does it take?** This meeting can take a whole day, but shorter sprints only need a couple of hours or so.
 
@@ -233,7 +232,7 @@ Scrum master should help to solve the blocking problems and impediments. Sometim
 
 
 # What's next?
-In this tutorial I tried to cover anything important about the Agile Development Process and Scrum. explained the Scrum benefits, major players, how to estimate and some of its useful techniques, sprint rituals, Burndown Chart, Planning Board and some other terms such as Product Backlog, Sprint and User Story.
+In this tutorial I tried to cover anything important about the Agile Development Process and Scrum. Explained the Scrum benefits, major players, how to estimate and some of its useful techniques, sprint rituals, Burndown Chart, Planning Board and some other terms such as Product Backlog, Sprint and User Story.
 
 
 Like to learn more? Checkout the following resources:
